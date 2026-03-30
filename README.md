@@ -224,6 +224,4 @@
 💖 Support Our Work
 <div align="center">
 If you find our projects useful, consider giving them a ⭐
-
-<a href="https://www.buymeacoffee.com/getwebix" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="50"/> </a></div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:7c3aed&height=120&section=footer" width="100%"/> </div><div align="center"> <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/> &nbsp; <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/> &nbsp; <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile"/> </div><div align="center"> <sub>⭐ Star our repos if you find them useful! Made with ❤️ by <a href="https://getwebix.com">Getwebix</a></sub> </div> ```
